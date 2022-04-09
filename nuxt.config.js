@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - SteamVue',
-    title: 'SteamVue',
+    titleTemplate: '%s - SteamNuxt',
+    title: 'SteamNuxt',
     htmlAttrs: {
       lang: 'en'
     },
