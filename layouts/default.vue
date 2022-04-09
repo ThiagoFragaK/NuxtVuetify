@@ -42,14 +42,19 @@ export default {
       fixed: false,
       items: [
         {
-          icon: 'mdi-apps',
-          title: 'Welcome',
-          to: '/'
+          icon: 'mdi-home',
+          title: 'Home',
+          to: '/home'
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
+          icon: 'mdi-account-circle',
+          title: 'Users',
+          to: '/user'
+        },
+        {
+          icon: 'mdi-gamepad-variant',
+          title: 'Games',
+          to: '/games'
         }
       ],
       miniVariant: false,
