@@ -1,5 +1,5 @@
 <template>
-  
+    <h1>Games Page!</h1>
 </template>
 
 <script>
