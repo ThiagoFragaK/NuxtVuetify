@@ -14,7 +14,7 @@
 <script>
 export default {
     async asyncData({ params, $axios }) {
-        const user = await $axios.$get('api/user');
+        const user = await $axios.$get('api/v001/user');
         return { user }
     }
 }
