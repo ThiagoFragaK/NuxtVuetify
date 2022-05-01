@@ -3,8 +3,7 @@
         <v-row>
             <v-col cols="12" sm="12">
             <v-card class="pa-11" outlined tile >
-                <h1 class="font-weight-black text-center">Main</h1>
-                {{ user.personaname }}
+                <h1 class="font-weight-black text-center">{{ user.personaname }}</h1>
             </v-card>
             </v-col>
         </v-row>    
