@@ -19,4 +19,4 @@ $ npm run start
 $ npm run generate
 ```
 
-Documentation: [documentation](https://nuxtjs.org).
+See the [documentation](https://nuxtjs.org).
