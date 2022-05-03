@@ -69,7 +69,7 @@ export default {
       ],
     }),
     async asyncData({ params, $axios }) {
-        const user = await $axios.$get("http://127.0.0.1:9000/api/v001/user");
+        const user = await $axios.$get("http://127.0.0.1:9000/api/v1/user");
         console.log(user);
         return { user };
     },
